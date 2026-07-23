@@ -38,7 +38,7 @@ MODE: OPENAI_MESSAGES
 <role>路
 当然有！要海盐味的还是原味？
 <role>soliumbra
-今天想吃菠萝味喵，嘿嘿<end>
+今天想吃巧克力味喵，嘿嘿<end>
 <role>路
 啊…那我去买，要不你先写着？
 <role>soliumbra
