@@ -1,5 +1,7 @@
 # MACROSCOPE TAVERN CONVERSATION
 
+MODE: OPENAI_MESSAGES
+
 下面是完整对话上下文。严格遵循 SYSTEM 指令，并仅回复最后一条 USER 消息。
 
 ## SYSTEM
