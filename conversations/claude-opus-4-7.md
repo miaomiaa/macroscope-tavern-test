@@ -36,7 +36,7 @@
 <role>路
 当然有！要海盐味的还是原味？
 <role>soliumbra
-今天想吃奶油味喵，嘿嘿<end>
+今天想吃草莓味喵，嘿嘿<end>
 <role>路
 啊…那我去买，要不你先写着？
 <role>soliumbra
